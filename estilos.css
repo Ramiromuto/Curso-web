@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#cabecera {
+    background-color: #e1ffc5;
+    border: 1px solid #999;
+    padding: 20px;
+
+}
+
+footer {
+    background-color: rgb(131, 250, 185);
+}
+
+.orange {
+    background-color: orange;
+}
+
+.green {
+    background-color: green;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+header, nav, footer, section {
+   display: block ;
+}
+
+.agrupar {
+    width: 960px;
+    margin: 100px auto;
+    border: 1px solid black;
+}
+
+.menu {
+    background-color: #ccc;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.menu li {
+    list-style: none;
+    padding: 4px;
+    border: 1px solid black;
+    font: bold 14px verdana;
+    display: inline-block;
+}
+
+section {
+    margin: 20px;
+}
